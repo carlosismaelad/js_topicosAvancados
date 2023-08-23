@@ -17,9 +17,9 @@ console.log('Programa iniciado')
 
 const timeoutId = setTimeout(() => {
     console.log('3 segundo se passaram desde que o programa foi iniciado')
-}, 1000 * 3) 
+}, 1000 * 3)
 
 console.log('Programa encerrado')
 
 // encerra o nosso timeout
-clearTimeout(timeoutId)
+// clearTimeout(timeoutId)
