@@ -16,21 +16,7 @@ async function doSubmit() {
     const song = document.querySelector('#song')
 
     lyrics_ev.innerHTML =
-        '<div class="spinner-grow justify-content-center" role="status"><div<span>Carregando...</span></div></div>'
-
-    // then
-    // findLyrics(artist.value, song.value)
-    //     .then(response => response.json())
-    //     .then(data => {
-    //         if (data.lyrics) {
-    //             lyrics_ev.innerHTML = data.lyrics
-    //         } else {
-    //             lyrics_ev.innerHTML = data.error
-    //         }
-    //     })
-    //     .catch(err => {
-    //         lyrics_ev.innerHTML = `Ops! ${err}`
-    //     })
+        '<div class="spinner-grow justify-content-center" role="status"><span>Carregando...</span></div>'
 
     // async await
     try {
