@@ -1,6 +1,6 @@
 function findLyrics(artist, song) {
     return fetch(
-        `https://api.vagalume.com.br/search.php?art=${artist}&mus=${song}&apikey={1393e451a8231f026e75fe91f2b7e5cb}`
+        `https://api.vagalume.com.br/search.php?art=${artist}&mus=${song}&apikey={YOUR-API-KEY}`
     )
 }
 
