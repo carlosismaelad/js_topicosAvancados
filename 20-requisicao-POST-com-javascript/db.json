@@ -1,16 +1,40 @@
 {
-    "articles": [
-      {
-        "id": 1,
-        "title": "Olá, mundo!",
-        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
-        "author": "Isaac"
-      },
-      {
-        "id": 2,
-        "title": "Requisições POST com Javascript",
-        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
-        "author": "Isaac"
-      }
-    ]
-  }
+  "articles": [
+    {
+      "id": 1,
+      "title": "Olá, mundo!",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Carlos"
+    },
+    {
+      "id": 2,
+      "title": "Requisições POST com Javascript",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Carlos"
+    },
+    {
+      "title": "Aprendendo JavaScript",
+      "author": "Carlos",
+      "content": "Estou estudando JavaScript com a galera da OneBitCode!",
+      "id": 3
+    },
+    {
+      "title": "Estudando C#",
+      "author": "Carlos",
+      "content": "Estou estudando C# na plataforma .NET com o prof. Nélio Alves.",
+      "id": 4
+    },
+    {
+      "title": "Teste",
+      "author": "Carlos",
+      "content": "Estou testando",
+      "id": 5
+    },
+    {
+      "title": "Meu sexto artigo",
+      "author": "Carlos",
+      "content": "JavaScript é demais!",
+      "id": 6
+    }
+  ]
+}
